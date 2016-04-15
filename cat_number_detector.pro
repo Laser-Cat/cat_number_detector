@@ -23,5 +23,6 @@ LIBS+= -lopencv_calib3d -lopencv_contrib -lopencv_core -lopencv_features2d -lope
 
 DISTFILES += \
     heat_mask.png \
-    back_ground_sample_mask_.bmp
+    back_ground_sample_mask_.bmp \
+    readme.txt
 
